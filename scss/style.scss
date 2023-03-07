@@ -1,0 +1,19 @@
+@use'custom';
+
+//import the components
+
+@use'components/animations';
+@use'components/buttons';
+@use'components/mixins';
+@use'components/typography';
+
+//import the sections
+@use 'sections/navbar';
+@use 'sections/intro-section';
+@use 'sections/companies';
+@use 'sections/services';
+@use 'sections/testemonials';
+@use 'sections/faq';
+@use 'sections/portfilio';
+@use 'sections/get-started.scss';
+@use 'sections/footer';
